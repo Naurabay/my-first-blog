@@ -123,4 +123,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static') ##
 # Укажите в STATIC_ROOT каталог, из которого будут раздаваться статические файлы
 ## STATIC_ROOT = "/var/www/example.com/static/"
 
-MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
+##MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
